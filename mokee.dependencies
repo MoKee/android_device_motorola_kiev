@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_motorola_kiev",
+    "target_path": "vendor/motorola/kiev"
+  },
+  {
     "repository": "android_kernel_motorola_sm7250",
     "target_path": "kernel/motorola/sm7250"
   },

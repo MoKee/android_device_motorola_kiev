@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_kiev.mk
+    $(LOCAL_DIR)/mokee_kiev.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_kiev-eng \
-    lineage_kiev-user \
-    lineage_kiev-userdebug
+    mokee_kiev-eng \
+    mokee_kiev-user \
+    mokee_kiev-userdebug
